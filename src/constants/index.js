@@ -1,0 +1,4 @@
+export const FETCH_ALL_ALBUMS = "FETCH_ALL_ALBUMS";
+export const SET_ALL_ALBUMS = "SET_ALL_ALBUMS";
+export const FETCH_ALL_PHOTOS = "FETCH_ALL_PHOTOS";
+export const SET_ALL_PHOTOS = "SET_ALL_PHOTOS";
